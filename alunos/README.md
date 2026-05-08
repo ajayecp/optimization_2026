@@ -9,3 +9,4 @@
 ### Resultado:
 - **Status:** OPTIMAL
 - **Z* (Score máximo):** 18.825
+-
